@@ -7,16 +7,27 @@ Este projeto implementa uma rede ponto-a-ponto entre dois microcontroladores ESP
 ## Estrutura do Repositório
 
 seu-repositorio-projeto-redes/
+
 ├── README.md ← Este arquivo
+
 ├── relatorio/
+
 │ └── relatorio_final.pdf ← Relatório técnico completo
+
 ├── apresentacao/
+
 │ └── slides_apresentacao.pdf ← Slides da apresentação
+
 └── codigo/
+
 ├── src/
+
 │ ├── esp_pai.ino ← Código do ESP Pai
+
 │ └── esp_filho.ino ← Código do ESP Filho
+
 ├── lib/ ← Bibliotecas externas (se houver)
+
 └── README.md ← Como compilar e rodar o código
 
 ---
