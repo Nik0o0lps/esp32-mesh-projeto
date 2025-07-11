@@ -6,19 +6,20 @@ Este projeto implementa uma rede ponto-a-ponto entre dois microcontroladores ESP
 
 ## Estrutura do Repositório
 
-seu-repositorio-projeto-redes/
+esp32-mesh-projeto/
 
 ├── README.md ← Este arquivo
 
 ├── relatorio/
 
-│ └── relatorio_final.pdf ← Relatório técnico completo
+│ └── WIFI-REDE-MESH-NIKOLASLOPES.pdf ← Relatório técnico completo
 
 ├── apresentacao/
 
-│ └── slides_apresentacao.pdf ← Slides da apresentação
+│ └── Rede-WiFi-Mesh-com-3-ESP32-Projeto-e-Resultados.pdf ← Slides da apresentação
+│ └──IMPLEMENTACAO-DE-UMA-REDE-MESH-WI-FI-BASEADA-EM-ESP-32.pdf  ← Slides Pré-Projeto
 
-└── codigo/
+└── Codigo/
 
 ├── src/
 
@@ -30,7 +31,6 @@ seu-repositorio-projeto-redes/
 
 └── README.md ← Como compilar e rodar o código
 
----
 
 ## Objetivo
 
