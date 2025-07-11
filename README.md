@@ -19,10 +19,6 @@ seu-repositorio-projeto-redes/
 ├── lib/ ← Bibliotecas externas (se houver)
 └── README.md ← Como compilar e rodar o código
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## Objetivo
